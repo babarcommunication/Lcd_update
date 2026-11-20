@@ -1,0 +1,1164 @@
+{
+  "master_lcd": {
+    "Oppo": [
+      {
+        "id": "op_1",
+        "brand": "Oppo",
+        "primary_model": "Oppo Find X10 / Reno 12 Pro / Reno 13",
+        "compatible_models": [
+          {
+            "name": "Oppo Reno 12 Pro",
+            "code": "CPH2629"
+          },
+          {
+            "name": "Oppo Reno 12",
+            "code": "CPH2625"
+          },
+          {
+            "name": "Oppo Reno 13",
+            "code": "CPH2689"
+          },
+          {
+            "name": "Find X8",
+            "code": "CPH2651"
+          }
+        ],
+        "note": "Flagship AMOLED series."
+      },
+      {
+        "id": "op_2",
+        "brand": "Oppo",
+        "primary_model": "Oppo A60 / A3x / A40 / A3 Pro",
+        "compatible_models": [
+          {
+            "name": "Oppo A60",
+            "code": "CPH2631"
+          },
+          {
+            "name": "Oppo A3x",
+            "code": "CPH2641"
+          },
+          {
+            "name": "Oppo A40",
+            "code": "CPH2669"
+          },
+          {
+            "name": "Oppo A3 4G",
+            "code": "CPH2639"
+          },
+          {
+            "name": "Realme C61",
+            "code": "RMX3930"
+          }
+        ],
+        "note": "Military Grade Drop Resistance Series."
+      },
+      {
+        "id": "op_3",
+        "brand": "Oppo",
+        "primary_model": "Oppo A18 / A38 / A58 / A78",
+        "compatible_models": [
+          {
+            "name": "Oppo A18",
+            "code": "CPH2591"
+          },
+          {
+            "name": "Oppo A38",
+            "code": "CPH2585"
+          },
+          {
+            "name": "Oppo A58 4G",
+            "code": "CPH2577"
+          },
+          {
+            "name": "Oppo A78 5G",
+            "code": "CPH2495"
+          },
+          {
+            "name": "Oppo A57 2022",
+            "code": "CPH2387"
+          },
+          {
+            "name": "Oppo A77 4G",
+            "code": "CPH2385"
+          }
+        ],
+        "note": "90Hz HD+ Budget Display."
+      },
+      {
+        "id": "op_4",
+        "brand": "Oppo",
+        "primary_model": "Oppo Reno 8 / Reno 7 / A77 / F21 Pro",
+        "compatible_models": [
+          {
+            "name": "Oppo Reno 8 5G",
+            "code": "CPH2359"
+          },
+          {
+            "name": "Oppo A77 5G",
+            "code": "CPH2339"
+          },
+          {
+            "name": "Oppo Reno 7",
+            "code": "CPH2371"
+          },
+          {
+            "name": "Oppo F21 Pro",
+            "code": "CPH2363"
+          },
+          {
+            "name": "Oppo Reno 8T 4G",
+            "code": "CPH2481"
+          }
+        ],
+        "note": "Popular 90Hz AMOLED/LCD."
+      },
+      {
+        "id": "op_5",
+        "brand": "Oppo",
+        "primary_model": "Oppo A54 / A55 / A74 / F19",
+        "compatible_models": [
+          {
+            "name": "Oppo A54",
+            "code": "CPH2239"
+          },
+          {
+            "name": "Oppo A55",
+            "code": "CPH2435"
+          },
+          {
+            "name": "Oppo A74",
+            "code": "CPH2219"
+          },
+          {
+            "name": "Oppo F19",
+            "code": "CPH2219"
+          },
+          {
+            "name": "Oppo A95",
+            "code": "CPH2365"
+          },
+          {
+            "name": "Oppo A16",
+            "code": "CPH2269"
+          }
+        ],
+        "note": "Best Seller LCD."
+      },
+      {
+        "id": "op_6",
+        "brand": "Oppo",
+        "primary_model": "Oppo A15 / A15s / A31 / A12 / A5s",
+        "compatible_models": [
+          {
+            "name": "Oppo A15",
+            "code": "CPH2185"
+          },
+          {
+            "name": "Oppo A15s",
+            "code": "CPH2179"
+          },
+          {
+            "name": "Oppo A31",
+            "code": "CPH2015"
+          },
+          {
+            "name": "Oppo A12",
+            "code": "CPH2083"
+          },
+          {
+            "name": "Oppo A5s",
+            "code": "CPH1909"
+          }
+        ],
+        "note": "Classic Old Universal LCD."
+      }
+    ],
+    "Vivo": [
+      {
+        "id": "vivo_1",
+        "brand": "Vivo",
+        "primary_model": "Vivo V40 / V50 / V30 / X200 Series",
+        "compatible_models": [
+          {
+            "name": "Vivo V40 5G",
+            "code": "V2348"
+          },
+          {
+            "name": "Vivo V50",
+            "code": "V2427"
+          },
+          {
+            "name": "Vivo X200",
+            "code": "V2405"
+          },
+          {
+            "name": "Vivo V30 5G",
+            "code": "V2318"
+          }
+        ],
+        "note": "ZEISS Curved AMOLED Display."
+      },
+      {
+        "id": "vivo_2",
+        "brand": "Vivo",
+        "primary_model": "Vivo Y28 / Y18 / Y03 / Y17s",
+        "compatible_models": [
+          {
+            "name": "Vivo Y28",
+            "code": "V2330"
+          },
+          {
+            "name": "Vivo Y18",
+            "code": "V2333"
+          },
+          {
+            "name": "Vivo Y03",
+            "code": "V2332"
+          },
+          {
+            "name": "Vivo Y17s",
+            "code": "V2310"
+          },
+          {
+            "name": "Vivo Y27s",
+            "code": "V2322"
+          }
+        ],
+        "note": "Budget 90Hz HD+ Series."
+      },
+      {
+        "id": "vivo_3",
+        "brand": "Vivo",
+        "primary_model": "Vivo V27 / V29 / S16 / S17 Series",
+        "compatible_models": [
+          {
+            "name": "Vivo V27 5G",
+            "code": "V2231A"
+          },
+          {
+            "name": "Vivo V29",
+            "code": "V2250"
+          },
+          {
+            "name": "Vivo S16",
+            "code": "V2244A"
+          },
+          {
+            "name": "Vivo S17",
+            "code": "V2283A"
+          }
+        ],
+        "note": "3D Curved AMOLED screen."
+      },
+      {
+        "id": "vivo_4",
+        "brand": "Vivo",
+        "primary_model": "Vivo Y22 / Y35 / Y16 / Y02",
+        "compatible_models": [
+          {
+            "name": "Vivo Y22",
+            "code": "V2207"
+          },
+          {
+            "name": "Vivo Y35",
+            "code": "V2205"
+          },
+          {
+            "name": "Vivo Y16",
+            "code": "V2214"
+          },
+          {
+            "name": "Vivo Y02",
+            "code": "V2217"
+          }
+        ],
+        "note": "HD+ IPS LCD Display."
+      },
+      {
+        "id": "vivo_5",
+        "brand": "Vivo",
+        "primary_model": "Vivo Y20 / Y21 / Y12s / Y15s / Y33s",
+        "compatible_models": [
+          {
+            "name": "Vivo Y21",
+            "code": "V2111"
+          },
+          {
+            "name": "Vivo Y20",
+            "code": "V2027"
+          },
+          {
+            "name": "Vivo Y12s",
+            "code": "V2026"
+          },
+          {
+            "name": "Vivo Y15s",
+            "code": "V2120"
+          },
+          {
+            "name": "Vivo Y33s",
+            "code": "V2109"
+          }
+        ],
+        "note": "Universal Master LCD."
+      },
+      {
+        "id": "vivo_6",
+        "brand": "Vivo",
+        "primary_model": "Vivo Y11 / Y12 / Y15 / Y17 / Y91",
+        "compatible_models": [
+          {
+            "name": "Vivo Y11",
+            "code": "1906"
+          },
+          {
+            "name": "Vivo Y12",
+            "code": "1904"
+          },
+          {
+            "name": "Vivo Y15",
+            "code": "1901"
+          },
+          {
+            "name": "Vivo Y17",
+            "code": "1902"
+          },
+          {
+            "name": "Vivo Y91",
+            "code": "1811"
+          }
+        ],
+        "note": "Old Evergreen Master LCD."
+      }
+    ],
+    "Infinix / Tecno / Itel": [
+      {
+        "id": "tr_1",
+        "brand": "Infinix / Tecno / Itel",
+        "primary_model": "Infinix Hot 50 / Spark 30 / Smart 9 / Pop 9",
+        "compatible_models": [
+          {
+            "name": "Infinix Hot 50 5G",
+            "code": "X6720"
+          },
+          {
+            "name": "Infinix Hot 50i",
+            "code": "X6531"
+          },
+          {
+            "name": "Tecno Spark 30",
+            "code": "KL5"
+          },
+          {
+            "name": "Smart 9",
+            "code": "X6532"
+          },
+          {
+            "name": "Spark Go 1",
+            "code": "KL4"
+          },
+          {
+            "name": "Tecno Pop 9",
+            "code": "KL4H"
+          }
+        ],
+        "note": "Transsion Universal Budget Series."
+      },
+      {
+        "id": "tr_2",
+        "brand": "Infinix / Tecno / Itel",
+        "primary_model": "Infinix Note 40 / Note 30 / Camon 30 / Pova 6",
+        "compatible_models": [
+          {
+            "name": "Infinix Note 40 Pro",
+            "code": "X6851"
+          },
+          {
+            "name": "Tecno Camon 30",
+            "code": "CH6"
+          },
+          {
+            "name": "Tecno Pova 6 Pro",
+            "code": "LI9"
+          },
+          {
+            "name": "Infinix Note 30",
+            "code": "X6833B"
+          }
+        ],
+        "note": "AMOLED & IPS High Refresh Display."
+      },
+      {
+        "id": "tr_3",
+        "brand": "Infinix / Tecno / Itel",
+        "primary_model": "Infinix Hot 30 / Hot 40i / Smart 8 / Smart 7 / Itel P40",
+        "compatible_models": [
+          {
+            "name": "Infinix Hot 30i",
+            "code": "X669"
+          },
+          {
+            "name": "Infinix Hot 40i",
+            "code": "X6528"
+          },
+          {
+            "name": "Infinix Smart 8",
+            "code": "X6525"
+          },
+          {
+            "name": "Infinix Smart 7",
+            "code": "X6515"
+          },
+          {
+            "name": "Itel P40",
+            "code": "P662L"
+          },
+          {
+            "name": "Tecno Spark 10C",
+            "code": "KI5"
+          },
+          {
+            "name": "Tecno Spark 20C",
+            "code": "KJ5"
+          }
+        ],
+        "note": "Universal Budget Combo."
+      },
+      {
+        "id": "tr_4",
+        "brand": "Infinix / Tecno / Itel",
+        "primary_model": "Infinix Hot 12 / Hot 20 / Spark 9",
+        "compatible_models": [
+          {
+            "name": "Infinix Hot 12 Play",
+            "code": "X6816"
+          },
+          {
+            "name": "Infinix Hot 20i",
+            "code": "X665"
+          },
+          {
+            "name": "Tecno Spark 9 Pro",
+            "code": "KH7"
+          },
+          {
+            "name": "Itel Vision 3",
+            "code": "L6501"
+          }
+        ],
+        "note": "HD+ LCD."
+      },
+      {
+        "id": "tr_5",
+        "brand": "Infinix / Tecno / Itel",
+        "primary_model": "Infinix Hot 10S / Hot 11 / Hot 10 / Spark 7",
+        "compatible_models": [
+          {
+            "name": "Infinix Hot 10S",
+            "code": "X689"
+          },
+          {
+            "name": "Infinix Hot 11",
+            "code": "X662"
+          },
+          {
+            "name": "Infinix Hot 10 Play",
+            "code": "X688"
+          },
+          {
+            "name": "Tecno Spark 7P",
+            "code": "KF7"
+          }
+        ],
+        "note": "Classic Transsion bestseller."
+      }
+    ],
+    "Realme": [
+      {
+        "id": "rm_1",
+        "brand": "Realme",
+        "primary_model": "Realme 13 Pro+ / 14 / GT 7 Pro",
+        "compatible_models": [
+          {
+            "name": "Realme 13 Pro+",
+            "code": "RMX3921"
+          },
+          {
+            "name": "Realme GT 7 Pro",
+            "code": "RMX5010"
+          },
+          {
+            "name": "Realme 14",
+            "code": "RMX5051"
+          }
+        ],
+        "note": "Flagship AMOLED."
+      },
+      {
+        "id": "rm_2",
+        "brand": "Realme",
+        "primary_model": "Realme C67 / C65 / 12 Pro / Note 50",
+        "compatible_models": [
+          {
+            "name": "Realme C67 4G",
+            "code": "RMX3890"
+          },
+          {
+            "name": "Realme 12 Pro+",
+            "code": "RMX3840"
+          },
+          {
+            "name": "Realme C65",
+            "code": "RMX3910"
+          },
+          {
+            "name": "Realme Note 50",
+            "code": "RMX3834"
+          }
+        ],
+        "note": "90Hz / 120Hz display series."
+      },
+      {
+        "id": "rm_3",
+        "brand": "Realme",
+        "primary_model": "Realme C53 / C55 / 11 Pro",
+        "compatible_models": [
+          {
+            "name": "Realme C53",
+            "code": "RMX3760"
+          },
+          {
+            "name": "Realme C55",
+            "code": "RMX3710"
+          },
+          {
+            "name": "Realme 11 Pro",
+            "code": "RMX3770"
+          }
+        ],
+        "note": "Popular models."
+      },
+      {
+        "id": "rm_4",
+        "brand": "Realme",
+        "primary_model": "Realme C33 / C35 / 9i / 9 Pro",
+        "compatible_models": [
+          {
+            "name": "Realme C35",
+            "code": "RMX3511"
+          },
+          {
+            "name": "Realme C33",
+            "code": "RMX3624"
+          },
+          {
+            "name": "Realme 9i",
+            "code": "RMX3491"
+          },
+          {
+            "name": "Realme 9 Pro",
+            "code": "RMX3471"
+          }
+        ],
+        "note": "FHD+ & HD+ IPS LCD."
+      },
+      {
+        "id": "rm_5",
+        "brand": "Realme",
+        "primary_model": "Realme C21 / C25 / C11 / 8 Series",
+        "compatible_models": [
+          {
+            "name": "Realme C21",
+            "code": "RMX3201"
+          },
+          {
+            "name": "Realme C25",
+            "code": "RMX3193"
+          },
+          {
+            "name": "Realme C11",
+            "code": "RMX2185"
+          },
+          {
+            "name": "Realme 8 5G",
+            "code": "RMX3241"
+          }
+        ],
+        "note": "Stable stock."
+      }
+    ],
+    "OnePlus": [
+      {
+        "id": "op_on_1",
+        "brand": "OnePlus",
+        "primary_model": "OnePlus 13 / 13R / Nord 5",
+        "compatible_models": [
+          {
+            "name": "OnePlus 13",
+            "code": "PJZ110"
+          },
+          {
+            "name": "OnePlus 13R",
+            "code": "CPH2645"
+          },
+          {
+            "name": "OnePlus Nord 5",
+            "code": "CPH2701"
+          }
+        ],
+        "note": "Fluid AMOLED display."
+      },
+      {
+        "id": "op_on_2",
+        "brand": "OnePlus",
+        "primary_model": "OnePlus 12 / 12R / Nord 4 / 11",
+        "compatible_models": [
+          {
+            "name": "OnePlus 12",
+            "code": "CPH2581"
+          },
+          {
+            "name": "OnePlus 12R",
+            "code": "CPH2609"
+          },
+          {
+            "name": "OnePlus Nord 4",
+            "code": "CPH2661"
+          },
+          {
+            "name": "OnePlus 11",
+            "code": "CPH2449"
+          }
+        ],
+        "note": "Pro grade AMOLED."
+      },
+      {
+        "id": "op_on_3",
+        "brand": "OnePlus",
+        "primary_model": "OnePlus 10T / 10 Pro / Nord CE 2 / Nord 3",
+        "compatible_models": [
+          {
+            "name": "OnePlus 10T",
+            "code": "PGP110"
+          },
+          {
+            "name": "OnePlus 10 Pro",
+            "code": "NE2211"
+          },
+          {
+            "name": "Nord CE 2",
+            "code": "IV2201"
+          },
+          {
+            "name": "OnePlus Nord 3",
+            "code": "CPH2493"
+          }
+        ],
+        "note": "120Hz Fluid AMOLED."
+      },
+      {
+        "id": "op_on_4",
+        "brand": "OnePlus",
+        "primary_model": "OnePlus 9 / 9 Pro / 8T / Nord CE",
+        "compatible_models": [
+          {
+            "name": "OnePlus 9",
+            "code": "LE2110"
+          },
+          {
+            "name": "OnePlus 9 Pro",
+            "code": "LE2120"
+          },
+          {
+            "name": "OnePlus 8T",
+            "code": "KB2001"
+          },
+          {
+            "name": "Nord CE 5G",
+            "code": "EB2103"
+          }
+        ],
+        "note": "Fluid AMOLED flagship."
+      }
+    ],
+    "Google Pixel": [
+      {
+        "id": "pix_1",
+        "brand": "Google Pixel",
+        "primary_model": "Google Pixel 11 / 11 Pro / 10 / 10a",
+        "compatible_models": [
+          {
+            "name": "Google Pixel 11 Pro",
+            "code": "GP11-PRO"
+          },
+          {
+            "name": "Google Pixel 11",
+            "code": "GP11"
+          },
+          {
+            "name": "Google Pixel 10",
+            "code": "GP10"
+          },
+          {
+            "name": "Google Pixel 10a",
+            "code": "GP10A"
+          }
+        ],
+        "note": "OLED Display."
+      },
+      {
+        "id": "pix_2",
+        "brand": "Google Pixel",
+        "primary_model": "Google Pixel 9 / 9 Pro / 9 Pro XL / 9a",
+        "compatible_models": [
+          {
+            "name": "Google Pixel 9",
+            "code": "GUR25"
+          },
+          {
+            "name": "Google Pixel 9 Pro",
+            "code": "GEC77"
+          },
+          {
+            "name": "Google Pixel 9 Pro XL",
+            "code": "GZC0K"
+          },
+          {
+            "name": "Google Pixel 9a",
+            "code": "GXQ96"
+          }
+        ],
+        "note": "Actua & Super Actua OLED screens."
+      },
+      {
+        "id": "pix_3",
+        "brand": "Google Pixel",
+        "primary_model": "Google Pixel 8 / 8 Pro / 8a",
+        "compatible_models": [
+          {
+            "name": "Google Pixel 8",
+            "code": "GKWS6"
+          },
+          {
+            "name": "Google Pixel 8 Pro",
+            "code": "GC3VE"
+          },
+          {
+            "name": "Google Pixel 8a",
+            "code": "G8H26"
+          }
+        ],
+        "note": "120Hz OLED Actua display."
+      },
+      {
+        "id": "pix_4",
+        "brand": "Google Pixel",
+        "primary_model": "Google Pixel 7 / 7 Pro / 7a",
+        "compatible_models": [
+          {
+            "name": "Google Pixel 7",
+            "code": "GQML3"
+          },
+          {
+            "name": "Google Pixel 7 Pro",
+            "code": "GE2AE"
+          },
+          {
+            "name": "Google Pixel 7a",
+            "code": "GWKK3"
+          }
+        ],
+        "note": "FHD+ OLED."
+      },
+      {
+        "id": "pix_5",
+        "brand": "Google Pixel",
+        "primary_model": "Google Pixel 6 / 6 Pro / 6a / 5 / 4a",
+        "compatible_models": [
+          {
+            "name": "Google Pixel 6",
+            "code": "GB7N6"
+          },
+          {
+            "name": "Google Pixel 6 Pro",
+            "code": "GLU3G"
+          },
+          {
+            "name": "Google Pixel 6a",
+            "code": "GX7AS"
+          },
+          {
+            "name": "Google Pixel 5",
+            "code": "GD1YQ"
+          },
+          {
+            "name": "Google Pixel 4a",
+            "code": "G025E"
+          }
+        ],
+        "note": "AMOLED screens."
+      }
+    ],
+    "Samsung": [
+      {
+        "id": "sam_1",
+        "brand": "Samsung",
+        "primary_model": "Samsung Galaxy S26 / S25 / A57 / A56 / A37",
+        "compatible_models": [
+          {
+            "name": "Galaxy S26 Ultra",
+            "code": "SM-S948"
+          },
+          {
+            "name": "Galaxy S25 Ultra",
+            "code": "SM-S938"
+          },
+          {
+            "name": "Galaxy A57 5G",
+            "code": "SM-A576"
+          },
+          {
+            "name": "Galaxy A56 5G",
+            "code": "SM-A566"
+          },
+          {
+            "name": "Galaxy A37 5G",
+            "code": "SM-A376"
+          }
+        ],
+        "note": "Dynamic AMOLED 2X."
+      },
+      {
+        "id": "sam_2",
+        "brand": "Samsung",
+        "primary_model": "Samsung Galaxy S24 / A15 / A25 / A35 / A55",
+        "compatible_models": [
+          {
+            "name": "Galaxy S24 Ultra",
+            "code": "SM-S928"
+          },
+          {
+            "name": "Galaxy A15 5G",
+            "code": "SM-A156"
+          },
+          {
+            "name": "Galaxy A25 5G",
+            "code": "SM-A256"
+          },
+          {
+            "name": "Galaxy A35 5G",
+            "code": "SM-A356"
+          },
+          {
+            "name": "Galaxy A55",
+            "code": "SM-A556"
+          }
+        ],
+        "note": "Super AMOLED / Infinity-U LCD."
+      },
+      {
+        "id": "sam_3",
+        "brand": "Samsung",
+        "primary_model": "Samsung Galaxy A14 / A13 / A34 / A33 / S23 / S22",
+        "compatible_models": [
+          {
+            "name": "Galaxy A14 5G",
+            "code": "SM-A146"
+          },
+          {
+            "name": "Galaxy A13",
+            "code": "SM-A135"
+          },
+          {
+            "name": "Galaxy A34 5G",
+            "code": "SM-A346"
+          },
+          {
+            "name": "Galaxy A33 5G",
+            "code": "SM-A336"
+          },
+          {
+            "name": "Galaxy S23 Ultra",
+            "code": "SM-S918"
+          },
+          {
+            "name": "Galaxy S22",
+            "code": "SM-S901"
+          }
+        ],
+        "note": "FHD+ TFT & AMOLED."
+      },
+      {
+        "id": "sam_4",
+        "brand": "Samsung",
+        "primary_model": "Samsung Galaxy A12 / A22 / A32 / A52 / S21",
+        "compatible_models": [
+          {
+            "name": "Galaxy A12",
+            "code": "SM-A125"
+          },
+          {
+            "name": "Galaxy A22",
+            "code": "SM-A225"
+          },
+          {
+            "name": "Galaxy A32",
+            "code": "SM-A325"
+          },
+          {
+            "name": "Galaxy A52",
+            "code": "SM-A525"
+          },
+          {
+            "name": "Galaxy S21",
+            "code": "SM-G991"
+          }
+        ],
+        "note": "Samsung catalog."
+      }
+    ],
+    "Redmi": [
+      {
+        "id": "redmi_1",
+        "brand": "Redmi",
+        "primary_model": "Redmi Note 15 / Note 14 / K80 / Poco X7",
+        "compatible_models": [
+          {
+            "name": "Redmi Note 15 Pro",
+            "code": "2506RN15C"
+          },
+          {
+            "name": "Redmi Note 14 Pro+",
+            "code": "24115RA8EG"
+          },
+          {
+            "name": "Poco X7 Pro",
+            "code": "24122RKC7G"
+          },
+          {
+            "name": "Redmi K80",
+            "code": "K80"
+          }
+        ],
+        "note": "1.5K AMOLED 144Hz."
+      },
+      {
+        "id": "redmi_2",
+        "brand": "Redmi",
+        "primary_model": "Redmi Note 13 / 13 Pro / 13C / Poco X6",
+        "compatible_models": [
+          {
+            "name": "Redmi Note 13 4G",
+            "code": "23129RA54G"
+          },
+          {
+            "name": "Redmi Note 13 Pro+",
+            "code": "23090RA98C"
+          },
+          {
+            "name": "Redmi 13C",
+            "code": "23100RN82L"
+          },
+          {
+            "name": "Poco X6 Pro",
+            "code": "2311DRK48G"
+          }
+        ],
+        "note": "Curved & Flat AMOLED."
+      },
+      {
+        "id": "redmi_3",
+        "brand": "Redmi",
+        "primary_model": "Redmi Note 12 / Note 11 / 11 Pro / Poco X4",
+        "compatible_models": [
+          {
+            "name": "Redmi Note 12 4G",
+            "code": "23021RAA2Y"
+          },
+          {
+            "name": "Redmi Note 11",
+            "code": "2201117TI"
+          },
+          {
+            "name": "Redmi Note 11 Pro",
+            "code": "2201116TG"
+          },
+          {
+            "name": "Poco X4 Pro",
+            "code": "2201116PI"
+          }
+        ],
+        "note": "90Hz/120Hz AMOLED."
+      },
+      {
+        "id": "redmi_4",
+        "brand": "Redmi",
+        "primary_model": "Redmi Note 10 / 10 Pro / Note 9 / 9A / 9C",
+        "compatible_models": [
+          {
+            "name": "Redmi Note 10",
+            "code": "M2101K7AI"
+          },
+          {
+            "name": "Redmi Note 10 Pro",
+            "code": "M2101K6G"
+          },
+          {
+            "name": "Redmi Note 9",
+            "code": "M2003J15SG"
+          },
+          {
+            "name": "Redmi 9A",
+            "code": "M2006C3LG"
+          },
+          {
+            "name": "Redmi 9C",
+            "code": "M2003J15SG"
+          }
+        ],
+        "note": "Bestseller."
+      }
+    ],
+    "VGO Tel": [
+      {
+        "id": "vgo_1",
+        "brand": "VGO Tel",
+        "primary_model": "VGO Tel Note 24 / Note 23 / Smart 9",
+        "compatible_models": [
+          {
+            "name": "VGO Tel Note 24",
+            "code": "VGO-N24"
+          },
+          {
+            "name": "VGO Tel Note 23",
+            "code": "VGO-N23"
+          },
+          {
+            "name": "VGO Tel Smart 9",
+            "code": "VGO-S9"
+          }
+        ],
+        "note": "Local Budget Series."
+      },
+      {
+        "id": "vgo_2",
+        "brand": "VGO Tel",
+        "primary_model": "VGO Tel Smart 8 / Smart 7 / Venture 10",
+        "compatible_models": [
+          {
+            "name": "VGO Tel Smart 8",
+            "code": "VGO-S8"
+          },
+          {
+            "name": "VGO Tel Smart 7",
+            "code": "VGO-S7"
+          },
+          {
+            "name": "VGO Tel Venture 10",
+            "code": "VGO-V10"
+          }
+        ],
+        "note": "Popular Waterdrop LCD."
+      }
+    ]
+  },
+  "stock": [
+    {
+      "id": "1",
+      "name": "Oppo Reno 12 Pro AMOLED LCD",
+      "brand": "Oppo",
+      "quality": "Original / OLED",
+      "qty": 18,
+      "price": 8500
+    },
+    {
+      "id": "2",
+      "name": "Google Pixel 8 / 8 Pro OLED Screen",
+      "brand": "Google Pixel",
+      "quality": "Original / OLED",
+      "qty": 4,
+      "price": 12500
+    }
+  ],
+  "sales": [
+    {
+      "name": "Oppo Reno 12 Pro AMOLED LCD",
+      "qty": 1,
+      "costPrice": 8500,
+      "sellPrice": 10625,
+      "profit": 2125,
+      "date": "12-11-2026 12:17"
+    }
+  ],
+  "restock": [
+    {
+      "name": "Oppo Reno 12 Pro AMOLED LCD",
+      "date": "12-11-2026 12:17"
+    },
+    {
+      "name": "Oppo Reno 12 Pro AMOLED LCD",
+      "date": "12-11-2026 12:17"
+    },
+    {
+      "name": "Oppo Reno 12 Pro AMOLED LCD",
+      "date": "12-11-2026 12:17"
+    },
+    {
+      "name": "Oppo Reno 12 Pro AMOLED LCD",
+      "date": "12-11-2026 12:17"
+    },
+    {
+      "name": "Oppo Reno 12 Pro AMOLED LCD",
+      "date": "12-11-2026 12:17"
+    },
+    {
+      "name": "Oppo Reno 12 Pro AMOLED LCD",
+      "date": "12-11-2026 12:17"
+    },
+    {
+      "name": "Oppo Reno 12 Pro AMOLED LCD",
+      "date": "12-11-2026 12:17"
+    },
+    {
+      "name": "Oppo Reno 12 Pro AMOLED LCD",
+      "date": "12-11-2026 12:17"
+    },
+    {
+      "name": "Oppo Reno 12 Pro AMOLED LCD",
+      "date": "12-11-2026 12:17"
+    },
+    {
+      "name": "Oppo Reno 12 Pro AMOLED LCD",
+      "date": "12-11-2026 12:17"
+    },
+    {
+      "name": "Oppo Reno 12 Pro AMOLED LCD",
+      "date": "12-11-2026 12:17"
+    },
+    {
+      "name": "Oppo Reno 12 Pro AMOLED LCD",
+      "date": "12-11-2026 12:17"
+    },
+    {
+      "name": "Oppo Reno 12 Pro AMOLED LCD",
+      "date": "12-11-2026 12:17"
+    },
+    {
+      "name": "Oppo Reno 12 Pro AMOLED LCD",
+      "date": "12-11-2026 12:17"
+    },
+    {
+      "name": "Oppo Reno 12 Pro AMOLED LCD",
+      "date": "12-11-2026 11:07"
+    },
+    {
+      "name": "Google Pixel 8 / 8 Pro OLED Screen",
+      "date": "12-11-2026 11:07"
+    }
+  ],
+  "khata": [],
+  "jobs": [],
+  "version": "2026",
+  "timestamp": "2026-11-12T12:46:57.369Z"
+}
