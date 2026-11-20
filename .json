@@ -1,10 +1,10 @@
- {
+{
   "master_lcd": {
     "Oppo": [
       {
         "id": "op_1",
         "brand": "Oppo",
-        "primary_model": "Oppo Find X10 / Reno 12 Pro / Reno 13",
+        "primary_model": "Oppo Reno 12 Pro / Reno 12",
         "compatible_models": [
           {
             "name": "Oppo Reno 12 Pro",
@@ -13,22 +13,15 @@
           {
             "name": "Oppo Reno 12",
             "code": "CPH2625"
-          },
-          {
-            "name": "Oppo Reno 13",
-            "code": "CPH2689"
-          },
-          {
-            "name": "Find X8",
-            "code": "CPH2651"
           }
         ],
+        "fpc_flex_code": "FPC-OP-R12P-OLED",
         "note": "Flagship AMOLED series."
       },
       {
         "id": "op_2",
         "brand": "Oppo",
-        "primary_model": "Oppo A60 / A3x / A40 / A3 Pro",
+        "primary_model": "Oppo A60 / A3x / A40 / A3 4G / Realme C61",
         "compatible_models": [
           {
             "name": "Oppo A60",
@@ -51,12 +44,13 @@
             "code": "RMX3930"
           }
         ],
+        "fpc_flex_code": "FPC-OP-A60-90HZ",
         "note": "Military Grade Drop Resistance Series."
       },
       {
         "id": "op_3",
         "brand": "Oppo",
-        "primary_model": "Oppo A18 / A38 / A58 / A78",
+        "primary_model": "Oppo A18 / A38 / A58 4G / A78 4G / A57 2022 / A77 4G",
         "compatible_models": [
           {
             "name": "Oppo A18",
@@ -71,8 +65,8 @@
             "code": "CPH2577"
           },
           {
-            "name": "Oppo A78 5G",
-            "code": "CPH2495"
+            "name": "Oppo A78 4G",
+            "code": "CPH2565"
           },
           {
             "name": "Oppo A57 2022",
@@ -83,51 +77,45 @@
             "code": "CPH2385"
           }
         ],
+        "fpc_flex_code": "FPC-OP-A58-90HZ",
         "note": "90Hz HD+ Budget Display."
       },
       {
         "id": "op_4",
         "brand": "Oppo",
-        "primary_model": "Oppo Reno 8 / Reno 7 / A77 / F21 Pro",
+        "primary_model": "Oppo Reno 7 5G / Reno 8 5G / Reno 8T 4G / F21 Pro",
         "compatible_models": [
+          {
+            "name": "Oppo Reno 7 5G",
+            "code": "CPH2371"
+          },
           {
             "name": "Oppo Reno 8 5G",
             "code": "CPH2359"
           },
           {
-            "name": "Oppo A77 5G",
-            "code": "CPH2339"
-          },
-          {
-            "name": "Oppo Reno 7",
-            "code": "CPH2371"
+            "name": "Oppo Reno 8T 4G",
+            "code": "CPH2481"
           },
           {
             "name": "Oppo F21 Pro",
             "code": "CPH2363"
-          },
-          {
-            "name": "Oppo Reno 8T 4G",
-            "code": "CPH2481"
           }
         ],
+        "fpc_flex_code": "FPC-OP-R8-90HZ",
         "note": "Popular 90Hz AMOLED/LCD."
       },
       {
         "id": "op_5",
         "brand": "Oppo",
-        "primary_model": "Oppo A54 / A55 / A74 / F19",
+        "primary_model": "Oppo A54 4G / A74 4G / F19 / A94 4G / A95 4G",
         "compatible_models": [
           {
-            "name": "Oppo A54",
+            "name": "Oppo A54 4G",
             "code": "CPH2239"
           },
           {
-            "name": "Oppo A55",
-            "code": "CPH2435"
-          },
-          {
-            "name": "Oppo A74",
+            "name": "Oppo A74 4G",
             "code": "CPH2219"
           },
           {
@@ -135,20 +123,50 @@
             "code": "CPH2219"
           },
           {
-            "name": "Oppo A95",
-            "code": "CPH2365"
+            "name": "Oppo A94 4G",
+            "code": "CPH2203"
           },
           {
-            "name": "Oppo A16",
-            "code": "CPH2269"
+            "name": "Oppo A95 4G",
+            "code": "CPH2365"
           }
         ],
-        "note": "Best Seller LCD."
+        "fpc_flex_code": "FPC-OP-A54-4G",
+        "note": "Best Seller LCD (Check 4G vs 5G flex)."
       },
       {
         "id": "op_6",
         "brand": "Oppo",
-        "primary_model": "Oppo A15 / A15s / A31 / A12 / A5s",
+        "primary_model": "Oppo A16 / A16s / A54s / A55 5G / A56 5G",
+        "compatible_models": [
+          {
+            "name": "Oppo A16",
+            "code": "CPH2269"
+          },
+          {
+            "name": "Oppo A16s",
+            "code": "CPH2271"
+          },
+          {
+            "name": "Oppo A54s",
+            "code": "CPH2273"
+          },
+          {
+            "name": "Oppo A55 5G",
+            "code": "CPH2309"
+          },
+          {
+            "name": "Oppo A56 5G",
+            "code": "PFVM10"
+          }
+        ],
+        "fpc_flex_code": "FPC-OP-A16-55S",
+        "note": "Center Punch-Hole / Waterdrop IPS LCD."
+      },
+      {
+        "id": "op_7",
+        "brand": "Oppo",
+        "primary_model": "Oppo A15 / A15s / A31 / A12 / A5s / A11k",
         "compatible_models": [
           {
             "name": "Oppo A15",
@@ -169,8 +187,13 @@
           {
             "name": "Oppo A5s",
             "code": "CPH1909"
+          },
+          {
+            "name": "Oppo A11k",
+            "code": "CPH2071"
           }
         ],
+        "fpc_flex_code": "FPC-OP-A15-A31",
         "note": "Classic Old Universal LCD."
       }
     ],
@@ -178,8 +201,12 @@
       {
         "id": "vivo_1",
         "brand": "Vivo",
-        "primary_model": "Vivo V40 / V50 / V30 / X200 Series",
+        "primary_model": "Vivo V30 5G / V40 5G / V50",
         "compatible_models": [
+          {
+            "name": "Vivo V30 5G",
+            "code": "V2318"
+          },
           {
             "name": "Vivo V40 5G",
             "code": "V2348"
@@ -187,22 +214,15 @@
           {
             "name": "Vivo V50",
             "code": "V2427"
-          },
-          {
-            "name": "Vivo X200",
-            "code": "V2405"
-          },
-          {
-            "name": "Vivo V30 5G",
-            "code": "V2318"
           }
         ],
+        "fpc_flex_code": "FPC-VV-V30-V40-CURVE",
         "note": "ZEISS Curved AMOLED Display."
       },
       {
         "id": "vivo_2",
         "brand": "Vivo",
-        "primary_model": "Vivo Y28 / Y18 / Y03 / Y17s",
+        "primary_model": "Vivo Y28 / Y18 / Y03 / Y17s / Y27s",
         "compatible_models": [
           {
             "name": "Vivo Y28",
@@ -225,12 +245,13 @@
             "code": "V2322"
           }
         ],
+        "fpc_flex_code": "FPC-VV-Y28-Y18",
         "note": "Budget 90Hz HD+ Series."
       },
       {
         "id": "vivo_3",
         "brand": "Vivo",
-        "primary_model": "Vivo V27 / V29 / S16 / S17 Series",
+        "primary_model": "Vivo V27 5G / V29 / S16 / S17",
         "compatible_models": [
           {
             "name": "Vivo V27 5G",
@@ -249,12 +270,13 @@
             "code": "V2283A"
           }
         ],
+        "fpc_flex_code": "FPC-VV-V27-V29-CURVE",
         "note": "3D Curved AMOLED screen."
       },
       {
         "id": "vivo_4",
         "brand": "Vivo",
-        "primary_model": "Vivo Y22 / Y35 / Y16 / Y02",
+        "primary_model": "Vivo Y22 / Y35 / Y16 / Y02 / Y02s",
         "compatible_models": [
           {
             "name": "Vivo Y22",
@@ -271,22 +293,31 @@
           {
             "name": "Vivo Y02",
             "code": "V2217"
+          },
+          {
+            "name": "Vivo Y02s",
+            "code": "V2203"
           }
         ],
+        "fpc_flex_code": "FPC-VV-Y22-Y35",
         "note": "HD+ IPS LCD Display."
       },
       {
         "id": "vivo_5",
         "brand": "Vivo",
-        "primary_model": "Vivo Y20 / Y21 / Y12s / Y15s / Y33s",
+        "primary_model": "Vivo Y20 / Y20s / Y21 / Y12s / Y15s / Y33s / Y30 / Y50 / Y19 / Y53s",
         "compatible_models": [
-          {
-            "name": "Vivo Y21",
-            "code": "V2111"
-          },
           {
             "name": "Vivo Y20",
             "code": "V2027"
+          },
+          {
+            "name": "Vivo Y20s",
+            "code": "V2029"
+          },
+          {
+            "name": "Vivo Y21",
+            "code": "V2111"
           },
           {
             "name": "Vivo Y12s",
@@ -299,14 +330,31 @@
           {
             "name": "Vivo Y33s",
             "code": "V2109"
+          },
+          {
+            "name": "Vivo Y30",
+            "code": "V1938"
+          },
+          {
+            "name": "Vivo Y50",
+            "code": "V1965A"
+          },
+          {
+            "name": "Vivo Y19",
+            "code": "1915"
+          },
+          {
+            "name": "Vivo Y53s",
+            "code": "V2058"
           }
         ],
-        "note": "Universal Master LCD."
+        "fpc_flex_code": "FPC-VV-Y20-Y21",
+        "note": "Universal Master LCD (Y20/Y21/Y30/Y50/Y19/Y53s family)."
       },
       {
         "id": "vivo_6",
         "brand": "Vivo",
-        "primary_model": "Vivo Y11 / Y12 / Y15 / Y17 / Y91",
+        "primary_model": "Vivo Y11 / Y12 / Y15 / Y17 / Y91 / Y91i / Y93 / Y95",
         "compatible_models": [
           {
             "name": "Vivo Y11",
@@ -327,8 +375,21 @@
           {
             "name": "Vivo Y91",
             "code": "1811"
+          },
+          {
+            "name": "Vivo Y91i",
+            "code": "1820"
+          },
+          {
+            "name": "Vivo Y93",
+            "code": "1814"
+          },
+          {
+            "name": "Vivo Y95",
+            "code": "1807"
           }
         ],
+        "fpc_flex_code": "FPC-VV-Y11-Y17",
         "note": "Old Evergreen Master LCD."
       }
     ],
@@ -336,8 +397,20 @@
       {
         "id": "tr_1",
         "brand": "Infinix / Tecno / Itel",
-        "primary_model": "Infinix Hot 50 / Spark 30 / Smart 9 / Pop 9",
+        "primary_model": "Infinix Smart 10 / Hot 60 / Hot 50i / Smart 9 / Hot 50 5G / Spark 30 / Spark Go 1 / Pop 9",
         "compatible_models": [
+          {
+            "name": "Infinix Smart 10",
+            "code": "X6725"
+          },
+          {
+            "name": "Infinix Smart 10 Plus",
+            "code": "X6725B"
+          },
+          {
+            "name": "Infinix Hot 60",
+            "code": "X6726"
+          },
           {
             "name": "Infinix Hot 50 5G",
             "code": "X6720"
@@ -347,15 +420,15 @@
             "code": "X6531"
           },
           {
+            "name": "Infinix Smart 9",
+            "code": "X6532"
+          },
+          {
             "name": "Tecno Spark 30",
             "code": "KL5"
           },
           {
-            "name": "Smart 9",
-            "code": "X6532"
-          },
-          {
-            "name": "Spark Go 1",
+            "name": "Tecno Spark Go 1",
             "code": "KL4"
           },
           {
@@ -363,41 +436,56 @@
             "code": "KL4H"
           }
         ],
-        "note": "Transsion Universal Budget Series."
+        "fpc_flex_code": "FPC-TR-X6725-X6531",
+        "note": "Transsion Universal Punch-Hole Budget Series (X6725 / X6531)."
       },
       {
         "id": "tr_2",
         "brand": "Infinix / Tecno / Itel",
-        "primary_model": "Infinix Note 40 / Note 30 / Camon 30 / Pova 6",
+        "primary_model": "Infinix Hot 50 4G",
         "compatible_models": [
           {
-            "name": "Infinix Note 40 Pro",
-            "code": "X6851"
-          },
-          {
-            "name": "Tecno Camon 30",
-            "code": "CH6"
-          },
-          {
-            "name": "Tecno Pova 6 Pro",
-            "code": "LI9"
-          },
-          {
-            "name": "Infinix Note 30",
-            "code": "X6833B"
+            "name": "Infinix Hot 50 4G",
+            "code": "X6882"
           }
         ],
-        "note": "AMOLED & IPS High Refresh Display."
+        "fpc_flex_code": "FPC-TR-X6882-FHD",
+        "note": "FHD+ 120Hz Punch-Hole LCD (X6882)."
       },
       {
         "id": "tr_3",
         "brand": "Infinix / Tecno / Itel",
-        "primary_model": "Infinix Hot 30 / Hot 40i / Smart 8 / Smart 7 / Itel P40",
+        "primary_model": "Infinix Hot 40 / Hot 40 Pro / Note 40X 5G / Tecno Spark 20 Pro",
         "compatible_models": [
           {
-            "name": "Infinix Hot 30i",
-            "code": "X669"
+            "name": "Infinix Hot 40",
+            "code": "X6836"
           },
+          {
+            "name": "Infinix Hot 40 Pro",
+            "code": "X6837"
+          },
+          {
+            "name": "Infinix Note 40X 5G",
+            "code": "X6838"
+          },
+          {
+            "name": "Tecno Spark 20 Pro",
+            "code": "KJ6"
+          },
+          {
+            "name": "Tecno Pova 5",
+            "code": "LH7N"
+          }
+        ],
+        "fpc_flex_code": "FPC-TR-X6836-KJ6",
+        "note": "FHD+ 120Hz Punch-Hole LCD (X6836 / X6837 / KJ6)."
+      },
+      {
+        "id": "tr_4",
+        "brand": "Infinix / Tecno / Itel",
+        "primary_model": "Infinix Hot 40i / Smart 8 / Smart 8 Plus / Tecno Spark 20C / Spark Go 2024 / Pop 8",
+        "compatible_models": [
           {
             "name": "Infinix Hot 40i",
             "code": "X6528"
@@ -407,78 +495,446 @@
             "code": "X6525"
           },
           {
+            "name": "Infinix Smart 8 Plus",
+            "code": "X6526"
+          },
+          {
+            "name": "Tecno Spark 20C",
+            "code": "BG7"
+          },
+          {
+            "name": "Tecno Spark Go 2024",
+            "code": "BG6"
+          },
+          {
+            "name": "Tecno Pop 8",
+            "code": "BG6"
+          }
+        ],
+        "fpc_flex_code": "FPC-TR-X6525-BG7",
+        "note": "Universal 90Hz Punch-Hole Combo (X6525)."
+      },
+      {
+        "id": "tr_5",
+        "brand": "Infinix / Tecno / Itel",
+        "primary_model": "Infinix Note 11 / Note 12 / Note 12 Turbo / Note 30i",
+        "compatible_models": [
+          {
+            "name": "Infinix Note 11",
+            "code": "X663"
+          },
+          {
+            "name": "Infinix Note 12",
+            "code": "X663C"
+          },
+          {
+            "name": "Infinix Note 12 (G88)",
+            "code": "X663D"
+          },
+          {
+            "name": "Infinix Note 12 Turbo",
+            "code": "X670"
+          },
+          {
+            "name": "Infinix Note 30i",
+            "code": "X6716"
+          }
+        ],
+        "fpc_flex_code": "FPC-TR-X663-AMOLED",
+        "note": "AMOLED / Incell LCD (X663 family)."
+      },
+      {
+        "id": "tr_6",
+        "brand": "Infinix / Tecno / Itel",
+        "primary_model": "Infinix Note 10 Pro / Note 10 Pro NFC",
+        "compatible_models": [
+          {
+            "name": "Infinix Note 10 Pro",
+            "code": "X695"
+          },
+          {
+            "name": "Infinix Note 10 Pro NFC",
+            "code": "X695C"
+          }
+        ],
+        "fpc_flex_code": "FPC-TR-X695-90HZ",
+        "note": "6.95-inch FHD+ 90Hz Center Punch-Hole LCD (X695)."
+      },
+      {
+        "id": "tr_7",
+        "brand": "Infinix / Tecno / Itel",
+        "primary_model": "Infinix Hot 11S / Hot 11S NFC / Zero 5G / Hot 20S / Tecno Camon 18 / Spark 8 Pro",
+        "compatible_models": [
+          {
+            "name": "Infinix Hot 11S",
+            "code": "X6812"
+          },
+          {
+            "name": "Infinix Hot 11S NFC",
+            "code": "X6812B"
+          },
+          {
+            "name": "Infinix Zero 5G",
+            "code": "X6815"
+          },
+          {
+            "name": "Infinix Hot 20S",
+            "code": "X6827"
+          },
+          {
+            "name": "Tecno Camon 18",
+            "code": "CH6"
+          },
+          {
+            "name": "Tecno Camon 17P",
+            "code": "CG7"
+          },
+          {
+            "name": "Tecno Spark 8 Pro",
+            "code": "KG8"
+          }
+        ],
+        "fpc_flex_code": "FPC-TR-X6812-CH6",
+        "note": "FHD+ 90Hz Center Punch-Hole LCD (X6812)."
+      },
+      {
+        "id": "tr_8",
+        "brand": "Infinix / Tecno / Itel",
+        "primary_model": "Infinix Zero X Neo / Tecno Camon 17 Pro",
+        "compatible_models": [
+          {
+            "name": "Infinix Zero X Neo",
+            "code": "X6810"
+          },
+          {
+            "name": "Tecno Camon 17 Pro",
+            "code": "CG8"
+          }
+        ],
+        "fpc_flex_code": "FPC-TR-X6810-CG8",
+        "note": "FHD+ 90Hz Punch-Hole LCD (X6810)."
+      },
+      {
+        "id": "tr_9",
+        "brand": "Infinix / Tecno / Itel",
+        "primary_model": "Infinix Smart 7 / Smart 7 HD / Hot 30i / Tecno Spark 10 / Spark 10C / Pop 7 Pro / Itel P40",
+        "compatible_models": [
+          {
             "name": "Infinix Smart 7",
             "code": "X6515"
           },
           {
-            "name": "Itel P40",
-            "code": "P662L"
+            "name": "Infinix Smart 7 HD",
+            "code": "X6516"
+          },
+          {
+            "name": "Infinix Hot 30i",
+            "code": "X669"
           },
           {
             "name": "Tecno Spark 10C",
             "code": "KI5"
           },
           {
-            "name": "Tecno Spark 20C",
-            "code": "KJ5"
+            "name": "Tecno Spark 10",
+            "code": "KI5Q"
+          },
+          {
+            "name": "Tecno Pop 7 Pro",
+            "code": "BF7"
+          },
+          {
+            "name": "Itel P40",
+            "code": "P662L"
+          },
+          {
+            "name": "Itel A60",
+            "code": "A662L"
           }
         ],
-        "note": "Universal Budget Combo."
+        "fpc_flex_code": "FPC-TR-X6515-BF7",
+        "note": "Universal Waterdrop LCD (X6515 / BF7 / KI5)."
       },
       {
-        "id": "tr_4",
+        "id": "tr_10",
         "brand": "Infinix / Tecno / Itel",
-        "primary_model": "Infinix Hot 12 / Hot 20 / Spark 9",
+        "primary_model": "Infinix Smart 6 HD / Tecno Spark 9T / Spark 8C / Itel Vision 3",
         "compatible_models": [
           {
-            "name": "Infinix Hot 12 Play",
-            "code": "X6816"
+            "name": "Infinix Smart 6 HD",
+            "code": "X6512"
           },
           {
-            "name": "Infinix Hot 20i",
-            "code": "X665"
+            "name": "Tecno Spark 9T",
+            "code": "KH6"
           },
           {
-            "name": "Tecno Spark 9 Pro",
-            "code": "KH7"
+            "name": "Tecno Spark 8C",
+            "code": "KG5K"
           },
           {
             "name": "Itel Vision 3",
             "code": "L6501"
           }
         ],
-        "note": "HD+ LCD."
+        "fpc_flex_code": "FPC-TR-X6512-KH6",
+        "note": "HD+ Waterdrop LCD (X6512 / KH6 / KG5)."
       },
       {
-        "id": "tr_5",
+        "id": "tr_11",
         "brand": "Infinix / Tecno / Itel",
-        "primary_model": "Infinix Hot 10S / Hot 11 / Hot 10 / Spark 7",
+        "primary_model": "Infinix Smart 6 / Smart 5 / Hot 10 Lite / Tecno Spark 6 Go / Spark Go 2022 / Pop 5 LTE",
         "compatible_models": [
           {
-            "name": "Infinix Hot 10S",
-            "code": "X689"
+            "name": "Infinix Smart 6",
+            "code": "X6511"
           },
+          {
+            "name": "Infinix Smart 6 (Variants)",
+            "code": "X6511B"
+          },
+          {
+            "name": "Infinix Smart 5",
+            "code": "X657"
+          },
+          {
+            "name": "Infinix Hot 10 Lite",
+            "code": "X657B"
+          },
+          {
+            "name": "Tecno Spark 6 Go",
+            "code": "KE5"
+          },
+          {
+            "name": "Tecno Spark Go 2022",
+            "code": "KG5"
+          },
+          {
+            "name": "Tecno Pop 5 LTE",
+            "code": "BD4"
+          }
+        ],
+        "fpc_flex_code": "FPC-TR-X657-X6511",
+        "note": "Universal Waterdrop LCD (X657 / X6511 / KE5)."
+      },
+      {
+        "id": "tr_12",
+        "brand": "Infinix / Tecno / Itel",
+        "primary_model": "Infinix Hot 10i / Smart 5 Pro / Tecno Spark 7 / Spark 7 Pro / Camon 17",
+        "compatible_models": [
+          {
+            "name": "Infinix Hot 10i",
+            "code": "X659"
+          },
+          {
+            "name": "Infinix Hot 10i (PR652B)",
+            "code": "X659B"
+          },
+          {
+            "name": "Infinix Smart 5 Pro",
+            "code": "X658"
+          },
+          {
+            "name": "Tecno Spark 7 Pro",
+            "code": "KF8"
+          },
+          {
+            "name": "Tecno Spark 7",
+            "code": "KF6"
+          },
+          {
+            "name": "Tecno Camon 17",
+            "code": "CG6"
+          }
+        ],
+        "fpc_flex_code": "FPC-TR-X659-KF8",
+        "note": "HD+ Waterdrop LCD (X659 / Spark 7 Pro / KF8)."
+      },
+      {
+        "id": "tr_13",
+        "brand": "Infinix / Tecno / Itel",
+        "primary_model": "Infinix Hot 11 / Hot 10S / Hot 10T / Tecno Spark 7P",
+        "compatible_models": [
           {
             "name": "Infinix Hot 11",
             "code": "X662"
           },
           {
-            "name": "Infinix Hot 10 Play",
-            "code": "X688"
+            "name": "Infinix Hot 10S",
+            "code": "X689"
+          },
+          {
+            "name": "Infinix Hot 10T",
+            "code": "X689C"
           },
           {
             "name": "Tecno Spark 7P",
             "code": "KF7"
           }
         ],
-        "note": "Classic Transsion bestseller."
+        "fpc_flex_code": "FPC-TR-X662-X689",
+        "note": "6.82-inch 90Hz Waterdrop LCD (X662 / X689)."
+      },
+      {
+        "id": "tr_14",
+        "brand": "Infinix / Tecno / Itel",
+        "primary_model": "Infinix Hot 10 Play / Hot 11 Play / Tecno Pova Neo",
+        "compatible_models": [
+          {
+            "name": "Infinix Hot 10 Play",
+            "code": "X688"
+          },
+          {
+            "name": "Infinix Hot 11 Play",
+            "code": "X688B"
+          },
+          {
+            "name": "Tecno Pova Neo",
+            "code": "LE6"
+          }
+        ],
+        "fpc_flex_code": "FPC-TR-X688-LE6",
+        "note": "6.82-inch Waterdrop LCD (X688)."
+      },
+      {
+        "id": "tr_15",
+        "brand": "Infinix / Tecno / Itel",
+        "primary_model": "Infinix Hot 9 Play / Smart 4 Plus / Tecno Pouvoir 4 / Spark 5 Air / Spark 6 Air",
+        "compatible_models": [
+          {
+            "name": "Infinix Hot 9 Play",
+            "code": "X680"
+          },
+          {
+            "name": "Infinix Smart 4 Plus",
+            "code": "X680D"
+          },
+          {
+            "name": "Tecno Pouvoir 4",
+            "code": "LC7"
+          },
+          {
+            "name": "Tecno Spark 5 Air",
+            "code": "KD6"
+          },
+          {
+            "name": "Tecno Spark 6 Air",
+            "code": "KE6"
+          }
+        ],
+        "fpc_flex_code": "FPC-TR-X680-KD6",
+        "note": "6.82-inch Waterdrop LCD (X680)."
+      },
+      {
+        "id": "tr_16",
+        "brand": "Infinix / Tecno / Itel",
+        "primary_model": "Infinix Hot 10 / Note 8i / Tecno Spark 6 / Camon 16 / Pova",
+        "compatible_models": [
+          {
+            "name": "Infinix Hot 10",
+            "code": "X682"
+          },
+          {
+            "name": "Infinix Note 8i",
+            "code": "X683"
+          },
+          {
+            "name": "Tecno Spark 6",
+            "code": "KE7"
+          },
+          {
+            "name": "Tecno Camon 16",
+            "code": "CE7"
+          },
+          {
+            "name": "Tecno Pova",
+            "code": "LD7"
+          }
+        ],
+        "fpc_flex_code": "FPC-TR-X682-KE7",
+        "note": "6.78-inch Left Punch-Hole LCD (X682)."
+      },
+      {
+        "id": "tr_17",
+        "brand": "Infinix / Tecno / Itel",
+        "primary_model": "Infinix Hot 9 / Hot 9 Pro / Note 7 Lite / Tecno Spark 5 / Camon 15",
+        "compatible_models": [
+          {
+            "name": "Infinix Hot 9",
+            "code": "X655"
+          },
+          {
+            "name": "Infinix Hot 9 Pro",
+            "code": "X655F"
+          },
+          {
+            "name": "Infinix Note 7 Lite",
+            "code": "X656"
+          },
+          {
+            "name": "Tecno Spark 5",
+            "code": "KD7"
+          },
+          {
+            "name": "Tecno Camon 15",
+            "code": "CD7"
+          }
+        ],
+        "fpc_flex_code": "FPC-TR-X655-KD7",
+        "note": "6.6-inch Left Punch-Hole LCD (X655)."
+      },
+      {
+        "id": "tr_18",
+        "brand": "Infinix / Tecno / Itel",
+        "primary_model": "Infinix S5 / S5 Lite / Tecno Camon 12 Air",
+        "compatible_models": [
+          {
+            "name": "Infinix S5",
+            "code": "X652"
+          },
+          {
+            "name": "Infinix S5 Lite",
+            "code": "X652B"
+          },
+          {
+            "name": "Tecno Camon 12 Air",
+            "code": "CC6"
+          }
+        ],
+        "fpc_flex_code": "FPC-TR-X652-CC6",
+        "note": "6.6-inch Left Punch-Hole LCD (X652)."
+      },
+      {
+        "id": "tr_19",
+        "brand": "Infinix / Tecno / Itel",
+        "primary_model": "Infinix Smart 3 Plus / Infinix S4 / Tecno Spark 3 Pro / Camon i4",
+        "compatible_models": [
+          {
+            "name": "Infinix Smart 3 Plus",
+            "code": "X627"
+          },
+          {
+            "name": "Infinix S4",
+            "code": "X626"
+          },
+          {
+            "name": "Tecno Spark 3 Pro",
+            "code": "KB8"
+          },
+          {
+            "name": "Tecno Camon i4",
+            "code": "CB7"
+          }
+        ],
+        "fpc_flex_code": "FPC-TR-X627-X626",
+        "note": "Classic Waterdrop LCD (X627 / X626)."
       }
     ],
     "Realme": [
       {
         "id": "rm_1",
         "brand": "Realme",
-        "primary_model": "Realme 13 Pro+ / 14 / GT 7 Pro",
+        "primary_model": "Realme 13 Pro+ / GT 7 Pro / Realme 14",
         "compatible_models": [
           {
             "name": "Realme 13 Pro+",
@@ -493,20 +949,17 @@
             "code": "RMX5051"
           }
         ],
+        "fpc_flex_code": "FPC-RM-13PP-OLED",
         "note": "Flagship AMOLED."
       },
       {
         "id": "rm_2",
         "brand": "Realme",
-        "primary_model": "Realme C67 / C65 / 12 Pro / Note 50",
+        "primary_model": "Realme C67 4G / C65 / Note 50 / Realme C61",
         "compatible_models": [
           {
             "name": "Realme C67 4G",
             "code": "RMX3890"
-          },
-          {
-            "name": "Realme 12 Pro+",
-            "code": "RMX3840"
           },
           {
             "name": "Realme C65",
@@ -515,14 +968,19 @@
           {
             "name": "Realme Note 50",
             "code": "RMX3834"
+          },
+          {
+            "name": "Realme C61",
+            "code": "RMX3930"
           }
         ],
+        "fpc_flex_code": "FPC-RM-C67-N50",
         "note": "90Hz / 120Hz display series."
       },
       {
         "id": "rm_3",
         "brand": "Realme",
-        "primary_model": "Realme C53 / C55 / 11 Pro",
+        "primary_model": "Realme C53 / C55 / Narzo N53",
         "compatible_models": [
           {
             "name": "Realme C53",
@@ -533,16 +991,17 @@
             "code": "RMX3710"
           },
           {
-            "name": "Realme 11 Pro",
-            "code": "RMX3770"
+            "name": "Realme Narzo N53",
+            "code": "RMX3761"
           }
         ],
-        "note": "Popular models."
+        "fpc_flex_code": "FPC-RM-C55-C53",
+        "note": "Popular LCD combo models."
       },
       {
         "id": "rm_4",
         "brand": "Realme",
-        "primary_model": "Realme C33 / C35 / 9i / 9 Pro",
+        "primary_model": "Realme C35 / C33 / 9i / Narzo 50A / Narzo 50",
         "compatible_models": [
           {
             "name": "Realme C35",
@@ -557,16 +1016,21 @@
             "code": "RMX3491"
           },
           {
-            "name": "Realme 9 Pro",
-            "code": "RMX3471"
+            "name": "Realme Narzo 50A",
+            "code": "RMX3430"
+          },
+          {
+            "name": "Realme Narzo 50",
+            "code": "RMX3286"
           }
         ],
+        "fpc_flex_code": "FPC-RM-C35-9I",
         "note": "FHD+ & HD+ IPS LCD."
       },
       {
         "id": "rm_5",
         "brand": "Realme",
-        "primary_model": "Realme C21 / C25 / C11 / 8 Series",
+        "primary_model": "Realme C21 / C25 / C11 / C20 / Narzo 30A",
         "compatible_models": [
           {
             "name": "Realme C21",
@@ -581,10 +1045,15 @@
             "code": "RMX2185"
           },
           {
-            "name": "Realme 8 5G",
-            "code": "RMX3241"
+            "name": "Realme C20",
+            "code": "RMX3063"
+          },
+          {
+            "name": "Realme Narzo 30A",
+            "code": "RMX3171"
           }
         ],
+        "fpc_flex_code": "FPC-RM-C21-C11",
         "note": "Stable stock."
       }
     ],
@@ -607,6 +1076,7 @@
             "code": "CPH2701"
           }
         ],
+        "fpc_flex_code": "FPC-1P-OP13-OLED",
         "note": "Fluid AMOLED display."
       },
       {
@@ -631,6 +1101,7 @@
             "code": "CPH2449"
           }
         ],
+        "fpc_flex_code": "FPC-1P-OP12-N4",
         "note": "Pro grade AMOLED."
       },
       {
@@ -647,7 +1118,7 @@
             "code": "NE2211"
           },
           {
-            "name": "Nord CE 2",
+            "name": "OnePlus Nord CE 2",
             "code": "IV2201"
           },
           {
@@ -655,12 +1126,13 @@
             "code": "CPH2493"
           }
         ],
+        "fpc_flex_code": "FPC-1P-N3-10T",
         "note": "120Hz Fluid AMOLED."
       },
       {
         "id": "op_on_4",
         "brand": "OnePlus",
-        "primary_model": "OnePlus 9 / 9 Pro / 8T / Nord CE",
+        "primary_model": "OnePlus 9 / 9 Pro / 8T / Nord CE 5G",
         "compatible_models": [
           {
             "name": "OnePlus 9",
@@ -675,10 +1147,11 @@
             "code": "KB2001"
           },
           {
-            "name": "Nord CE 5G",
+            "name": "OnePlus Nord CE 5G",
             "code": "EB2103"
           }
         ],
+        "fpc_flex_code": "FPC-1P-OP9-8T",
         "note": "Fluid AMOLED flagship."
       }
     ],
@@ -686,7 +1159,7 @@
       {
         "id": "pix_1",
         "brand": "Google Pixel",
-        "primary_model": "Google Pixel 11 / 11 Pro / 10 / 10a",
+        "primary_model": "Google Pixel 11 Pro / 11 / 10 / 10a",
         "compatible_models": [
           {
             "name": "Google Pixel 11 Pro",
@@ -705,6 +1178,7 @@
             "code": "GP10A"
           }
         ],
+        "fpc_flex_code": "FPC-PX-P11-P10",
         "note": "OLED Display."
       },
       {
@@ -729,6 +1203,7 @@
             "code": "GXQ96"
           }
         ],
+        "fpc_flex_code": "FPC-PX-P9-XL",
         "note": "Actua & Super Actua OLED screens."
       },
       {
@@ -749,6 +1224,7 @@
             "code": "G8H26"
           }
         ],
+        "fpc_flex_code": "FPC-PX-P8-8P",
         "note": "120Hz OLED Actua display."
       },
       {
@@ -769,6 +1245,7 @@
             "code": "GWKK3"
           }
         ],
+        "fpc_flex_code": "FPC-PX-P7-7P",
         "note": "FHD+ OLED."
       },
       {
@@ -797,6 +1274,7 @@
             "code": "G025E"
           }
         ],
+        "fpc_flex_code": "FPC-PX-P6-6A",
         "note": "AMOLED screens."
       }
     ],
@@ -804,7 +1282,7 @@
       {
         "id": "sam_1",
         "brand": "Samsung",
-        "primary_model": "Samsung Galaxy S26 / S25 / A57 / A56 / A37",
+        "primary_model": "Galaxy S26 Ultra / S25 Ultra / A57 5G / A56 5G / A37 5G",
         "compatible_models": [
           {
             "name": "Galaxy S26 Ultra",
@@ -827,12 +1305,13 @@
             "code": "SM-A376"
           }
         ],
-        "note": "Dynamic AMOLED 2X."
+        "fpc_flex_code": "FPC-SM-S25U-A56",
+        "note": "Dynamic AMOLED 2X / Super AMOLED."
       },
       {
         "id": "sam_2",
         "brand": "Samsung",
-        "primary_model": "Samsung Galaxy S24 / A15 / A25 / A35 / A55",
+        "primary_model": "Galaxy S24 Ultra / A15 5G / A25 5G / A35 5G / A55",
         "compatible_models": [
           {
             "name": "Galaxy S24 Ultra",
@@ -855,12 +1334,13 @@
             "code": "SM-A556"
           }
         ],
-        "note": "Super AMOLED / Infinity-U LCD."
+        "fpc_flex_code": "FPC-SM-A35-A55",
+        "note": "Super AMOLED / Infinity-U Display."
       },
       {
         "id": "sam_3",
         "brand": "Samsung",
-        "primary_model": "Samsung Galaxy A14 / A13 / A34 / A33 / S23 / S22",
+        "primary_model": "Galaxy A14 5G / A13 / A34 5G / A33 5G / S23 Ultra / S22",
         "compatible_models": [
           {
             "name": "Galaxy A14 5G",
@@ -887,12 +1367,13 @@
             "code": "SM-S901"
           }
         ],
-        "note": "FHD+ TFT & AMOLED."
+        "fpc_flex_code": "FPC-SM-A14-A34",
+        "note": "FHD+ PLS LCD & Super AMOLED."
       },
       {
         "id": "sam_4",
         "brand": "Samsung",
-        "primary_model": "Samsung Galaxy A12 / A22 / A32 / A52 / S21",
+        "primary_model": "Galaxy A12 / A22 / A32 / A52 / S21 / A05s",
         "compatible_models": [
           {
             "name": "Galaxy A12",
@@ -913,8 +1394,13 @@
           {
             "name": "Galaxy S21",
             "code": "SM-G991"
+          },
+          {
+            "name": "Galaxy A05s",
+            "code": "SM-A057"
           }
         ],
+        "fpc_flex_code": "FPC-SM-A12-A32",
         "note": "Samsung catalog."
       }
     ],
@@ -922,7 +1408,7 @@
       {
         "id": "redmi_1",
         "brand": "Redmi",
-        "primary_model": "Redmi Note 15 / Note 14 / K80 / Poco X7",
+        "primary_model": "Redmi Note 15 Pro / Note 14 Pro+ / Poco X7 Pro / Redmi K80",
         "compatible_models": [
           {
             "name": "Redmi Note 15 Pro",
@@ -938,39 +1424,33 @@
           },
           {
             "name": "Redmi K80",
-            "code": "K80"
+            "code": "24122RKC7C"
           }
         ],
-        "note": "1.5K AMOLED 144Hz."
+        "fpc_flex_code": "FPC-RD-N14PP-X7P",
+        "note": "1.5K AMOLED 120Hz/144Hz."
       },
       {
         "id": "redmi_2",
         "brand": "Redmi",
-        "primary_model": "Redmi Note 13 / 13 Pro / 13C / Poco X6",
+        "primary_model": "Redmi 13C / Poco C65",
         "compatible_models": [
-          {
-            "name": "Redmi Note 13 4G",
-            "code": "23129RA54G"
-          },
-          {
-            "name": "Redmi Note 13 Pro+",
-            "code": "23090RA98C"
-          },
           {
             "name": "Redmi 13C",
             "code": "23100RN82L"
           },
           {
-            "name": "Poco X6 Pro",
-            "code": "2311DRK48G"
+            "name": "Poco C65",
+            "code": "2310FPCA4G"
           }
         ],
-        "note": "Curved & Flat AMOLED."
+        "fpc_flex_code": "FPC-RD-13C-C65",
+        "note": "Same 90Hz IPS LCD panel."
       },
       {
         "id": "redmi_3",
         "brand": "Redmi",
-        "primary_model": "Redmi Note 12 / Note 11 / 11 Pro / Poco X4",
+        "primary_model": "Redmi Note 12 4G / Note 11 / Note 11 Pro / Poco X4 Pro / Redmi 12C",
         "compatible_models": [
           {
             "name": "Redmi Note 12 4G",
@@ -987,44 +1467,46 @@
           {
             "name": "Poco X4 Pro",
             "code": "2201116PI"
+          },
+          {
+            "name": "Redmi 12C",
+            "code": "22120RN86G"
           }
         ],
-        "note": "90Hz/120Hz AMOLED."
+        "fpc_flex_code": "FPC-RD-N12-N11",
+        "note": "90Hz/120Hz AMOLED & HD+ LCD."
       },
       {
         "id": "redmi_4",
         "brand": "Redmi",
-        "primary_model": "Redmi Note 10 / 10 Pro / Note 9 / 9A / 9C",
+        "primary_model": "Redmi 9A / Redmi 9C / Redmi 9AT / Poco C3",
         "compatible_models": [
-          {
-            "name": "Redmi Note 10",
-            "code": "M2101K7AI"
-          },
-          {
-            "name": "Redmi Note 10 Pro",
-            "code": "M2101K6G"
-          },
-          {
-            "name": "Redmi Note 9",
-            "code": "M2003J15SG"
-          },
           {
             "name": "Redmi 9A",
             "code": "M2006C3LG"
           },
           {
             "name": "Redmi 9C",
-            "code": "M2003J15SG"
+            "code": "M2006C3MNG"
+          },
+          {
+            "name": "Redmi 9AT",
+            "code": "M2006C3LVG"
+          },
+          {
+            "name": "Poco C3",
+            "code": "M2006C3MI"
           }
         ],
-        "note": "Bestseller."
+        "fpc_flex_code": "FPC-RD-9A-9C",
+        "note": "Same budget LCD series."
       }
     ],
     "VGO Tel": [
       {
         "id": "vgo_1",
         "brand": "VGO Tel",
-        "primary_model": "VGO Tel Note 24 / Note 23 / Smart 9",
+        "primary_model": "VGO Tel Note 24 / Note 23 / Smart 9 / Note 25",
         "compatible_models": [
           {
             "name": "VGO Tel Note 24",
@@ -1037,14 +1519,19 @@
           {
             "name": "VGO Tel Smart 9",
             "code": "VGO-S9"
+          },
+          {
+            "name": "VGO Tel Note 25",
+            "code": "VGO-N25"
           }
         ],
+        "fpc_flex_code": "FPC-VG-N24-S9",
         "note": "Local Budget Series."
       },
       {
         "id": "vgo_2",
         "brand": "VGO Tel",
-        "primary_model": "VGO Tel Smart 8 / Smart 7 / Venture 10",
+        "primary_model": "VGO Tel Smart 8 / Smart 7 / Venture 10 / Smart 6",
         "compatible_models": [
           {
             "name": "VGO Tel Smart 8",
@@ -1057,9 +1544,217 @@
           {
             "name": "VGO Tel Venture 10",
             "code": "VGO-V10"
+          },
+          {
+            "name": "VGO Tel Smart 6",
+            "code": "VGO-S6"
           }
         ],
+        "fpc_flex_code": "FPC-VG-S8-S7",
         "note": "Popular Waterdrop LCD."
+      }
+    ],
+    "iPhone": [
+      {
+        "id": "ip_1",
+        "brand": "iPhone",
+        "primary_model": "iPhone 17 / 17 Pro / 17 Pro Max / 17e / Air",
+        "compatible_models": [
+          {
+            "name": "iPhone 17",
+            "code": "A3520"
+          },
+          {
+            "name": "iPhone 17 Pro",
+            "code": "A3523"
+          },
+          {
+            "name": "iPhone 17 Pro Max",
+            "code": "A3526"
+          },
+          {
+            "name": "iPhone 17e",
+            "code": "A3634"
+          },
+          {
+            "name": "iPhone Air",
+            "code": "A3517"
+          }
+        ],
+        "fpc_flex_code": "FPC-IP-17-OLED",
+        "note": "Super Retina XDR OLED / ProMotion."
+      },
+      {
+        "id": "ip_2",
+        "brand": "iPhone",
+        "primary_model": "iPhone 16 / 16 Plus / 16 Pro / 16 Pro Max / 16e",
+        "compatible_models": [
+          {
+            "name": "iPhone 16",
+            "code": "A3287"
+          },
+          {
+            "name": "iPhone 16 Plus",
+            "code": "A3290"
+          },
+          {
+            "name": "iPhone 16 Pro",
+            "code": "A3293"
+          },
+          {
+            "name": "iPhone 16 Pro Max",
+            "code": "A3296"
+          },
+          {
+            "name": "iPhone 16e",
+            "code": "A3409"
+          }
+        ],
+        "fpc_flex_code": "FPC-IP-16-OLED",
+        "note": "OLED & Aftermarket LCD options."
+      },
+      {
+        "id": "ip_3",
+        "brand": "iPhone",
+        "primary_model": "iPhone 15 / 15 Plus / 15 Pro / 15 Pro Max",
+        "compatible_models": [
+          {
+            "name": "iPhone 15",
+            "code": "A3090"
+          },
+          {
+            "name": "iPhone 15 Plus",
+            "code": "A3094"
+          },
+          {
+            "name": "iPhone 15 Pro",
+            "code": "A3102"
+          },
+          {
+            "name": "iPhone 15 Pro Max",
+            "code": "A3106"
+          }
+        ],
+        "fpc_flex_code": "FPC-IP-15-OLED",
+        "note": "OLED & LCD replacement options."
+      },
+      {
+        "id": "ip_4",
+        "brand": "iPhone",
+        "primary_model": "iPhone 14 / 14 Plus / 14 Pro / 14 Pro Max",
+        "compatible_models": [
+          {
+            "name": "iPhone 14",
+            "code": "A2882"
+          },
+          {
+            "name": "iPhone 14 Plus",
+            "code": "A2886"
+          },
+          {
+            "name": "iPhone 14 Pro",
+            "code": "A2890"
+          },
+          {
+            "name": "iPhone 14 Pro Max",
+            "code": "A2894"
+          }
+        ],
+        "fpc_flex_code": "FPC-IP-14-OLED",
+        "note": "OLED & LCD replacement options."
+      },
+      {
+        "id": "ip_5",
+        "brand": "iPhone",
+        "primary_model": "iPhone 13 / 13 mini / 13 Pro / 13 Pro Max",
+        "compatible_models": [
+          {
+            "name": "iPhone 13",
+            "code": "A2633"
+          },
+          {
+            "name": "iPhone 13 mini",
+            "code": "A2628"
+          },
+          {
+            "name": "iPhone 13 Pro",
+            "code": "A2638"
+          },
+          {
+            "name": "iPhone 13 Pro Max",
+            "code": "A2643"
+          }
+        ],
+        "fpc_flex_code": "FPC-IP-13-OLED",
+        "note": "OLED & TFT/Incell LCD options."
+      },
+      {
+        "id": "ip_6",
+        "brand": "iPhone",
+        "primary_model": "iPhone 12 / 12 Pro",
+        "compatible_models": [
+          {
+            "name": "iPhone 12",
+            "code": "A2403"
+          },
+          {
+            "name": "iPhone 12 Pro",
+            "code": "A2407"
+          }
+        ],
+        "fpc_flex_code": "FPC-IP-12-12P",
+        "note": "6.1-inch OLED & Incell LCD share compatibility."
+      },
+      {
+        "id": "ip_7",
+        "brand": "iPhone",
+        "primary_model": "iPhone 11",
+        "compatible_models": [
+          {
+            "name": "iPhone 11",
+            "code": "A2221"
+          }
+        ],
+        "fpc_flex_code": "FPC-IP-11-LCD",
+        "note": "6.1-inch Liquid Retina LCD."
+      },
+      {
+        "id": "ip_8",
+        "brand": "iPhone",
+        "primary_model": "iPhone X / XS",
+        "compatible_models": [
+          {
+            "name": "iPhone X",
+            "code": "A1901"
+          },
+          {
+            "name": "iPhone XS",
+            "code": "A2097"
+          }
+        ],
+        "fpc_flex_code": "FPC-IP-X-XS",
+        "note": "5.8-inch OLED & Incell LCD share compatibility."
+      },
+      {
+        "id": "ip_9",
+        "brand": "iPhone",
+        "primary_model": "iPhone SE (3rd Gen) / SE (2nd Gen) / iPhone 8",
+        "compatible_models": [
+          {
+            "name": "iPhone SE (3rd Gen)",
+            "code": "A2783"
+          },
+          {
+            "name": "iPhone SE (2nd Gen)",
+            "code": "A2296"
+          },
+          {
+            "name": "iPhone 8",
+            "code": "A1905"
+          }
+        ],
+        "fpc_flex_code": "FPC-IP-SE2-SE3-8",
+        "note": "4.7-inch Retina HD IPS LCD family."
       }
     ]
   },
